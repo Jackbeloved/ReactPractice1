@@ -1,5 +1,7 @@
 import React from "react";
 import "./App.css";
+
+// React hook
 function Tweet (props){
     return(
         <div className="tweet">
